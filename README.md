@@ -1,9 +1,5 @@
-# React + Vite
+# Catalogue utilisateur
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Je suis parti du projet https://github.com/training-dev-fr/3al-react pour y ajoouter le code necessaire a l'interaction avec l'api.
+Il faut se rendre sur la page catalogue pour consulter
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# retract_al
