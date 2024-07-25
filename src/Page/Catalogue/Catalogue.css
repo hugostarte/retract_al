@@ -1,0 +1,11 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid #404040;
+}
+h1{
+    margin: 70px;
+    text-align: center;
+}

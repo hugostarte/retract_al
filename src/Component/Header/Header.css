@@ -1,0 +1,15 @@
+.menu{
+    width: 100%;
+    display: flex;
+    background-color: #404040;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+}
+
+.nav-link.active{
+    background-color: #606060;
+}
